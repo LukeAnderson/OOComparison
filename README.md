@@ -15,7 +15,7 @@
     * What types does the language support?
     * Are both reference and value types supported?
     * Can new value types be created?
-* Classes
+* [Classes](https://github.com/LukeAnderson/OOComparison/blob/master/5%20Classes.md)
   * Defining
   * Creating new instances
   * Constructing/initializing
