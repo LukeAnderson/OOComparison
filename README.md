@@ -20,7 +20,7 @@
   * Creating new instances
   * Constructing/initializing
   * Destructing/de-initializing
-* Instance reference name in data type (class)
+* [Instance reference name in data type (class)](https://github.com/LukeAnderson/OOComparison/blob/master/6%20Instance%20reference%20name%20in%20data%20type%20(class).md)
   * this?  self?
 * Properties
   * Getters and setters...write your own or built in?
