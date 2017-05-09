@@ -1,5 +1,7 @@
 # Languages Compared: Java & C#
 #### Team of one: Luke Anderson
+
+This is a project comparing Java and C# through concise summarys with examples detailing various object oriented ideas. 
 ### Comparison Criteria
 
 * [Language purpose/genesis](https://github.com/LukeAnderson/OOComparison/blob/master/1%20Language%20purpose%26genesis.md)
