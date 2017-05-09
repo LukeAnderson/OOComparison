@@ -6,7 +6,7 @@
   * Why was the language created?
   * What problems was the language trying to address?
   * Is the language a reaction to a previous language or a replacement for another language?
-* Unique features of the language
+* [Unique features of the language](https://github.com/LukeAnderson/OOComparison/blob/master/2%20Unique%20features%20of%20the%20language.md)
   * Does the language have any particularly unique features?
 * Name spaces
   * How are name spaces implemented?
