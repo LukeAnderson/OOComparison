@@ -1,5 +1,5 @@
 # Languages Compared: Java & C#
-# Team of one: Luke Anderson
+#### Team of one: Luke Anderson
 ### Comparison Criteria
 
 * [Language purpose/genesis](https://github.com/LukeAnderson/OOComparison/blob/master/1%20Language%20purpose%26genesis.md)
@@ -8,7 +8,7 @@
   * Is the language a reaction to a previous language or a replacement for another language?
 * [Unique features of the language](https://github.com/LukeAnderson/OOComparison/blob/master/2%20Unique%20features%20of%20the%20language.md)
   * Does the language have any particularly unique features?
-* Name spaces
+* [Name spaces](https://github.com/LukeAnderson/OOComparison/blob/master/3%20Name%20spaces.md)
   * How are name spaces implemented?
   * How are name spaces used?
 * Types
